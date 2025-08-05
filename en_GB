@@ -1,0 +1,14 @@
+This line is for when a player joins your world or server 
+multiplayer.player.joined= §e[§a+§e] §b%s joined 
+
+
+#This line is for when a player joins your realm. 
+multiplayer.player.joined.realms= %s joined the Realm	
+
+
+#This line is for when a player leaves your world or server 
+multiplayer.player.left= §e[§c-§e] §b%s left
+
+
+#This line is for when a player leaves your realm. 
+multiplayer.player.left.realms= %s left the Realm	
