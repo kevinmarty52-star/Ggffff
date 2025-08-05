@@ -1,5 +1,5 @@
-This line is for when a player joins your world or server 
-multiplayer.player.joined= §e[§a+§e] §b%s joined 
+is line is for when a player joins your world or server 
+multiplayer.player.joined= §e[§a+§e] §b%s joined
 
 
 #This line is for when a player joins your realm. 
