@@ -1,4 +1,4 @@
-is line is for when a player joins your world or server 
+#is line is for when a player joins your world or server 
 multiplayer.player.joined= §e[§a+§e] §b%s joined
 
 
